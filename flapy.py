@@ -15,7 +15,7 @@ game_images = {}
 framepersecond = 32
 pipeimage = 'images/pipe.png'
 background_image = 'images/background.jpg'
-birdplayer_image = 'images/sheep.png'
+birdplayer_image = 'images/bird.png'
 sealevel_image = 'images/base.jfif'
   
   
